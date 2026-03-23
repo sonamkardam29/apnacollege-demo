@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-my name is sonam;
+I'm a Btech 3rd year student;
